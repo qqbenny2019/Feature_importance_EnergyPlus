@@ -9,3 +9,7 @@ Energy-saving factors: wall heat transfer coefficient, outer surface solar refle
 Feature importance calculation method: random forest
 
 Data source: EnergyPlus batch calculation file with Python API (https://eppy.readthedocs.io/en/latest/contributing.html)
+
+----------------------File introduction---------------------------------
+
+
