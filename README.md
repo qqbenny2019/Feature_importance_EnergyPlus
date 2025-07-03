@@ -11,5 +11,9 @@ Feature importance calculation method: random forest
 Data source: EnergyPlus batch calculation file with Python API (https://eppy.readthedocs.io/en/latest/contributing.html)
 
 ----------------------File introduction---------------------------------
-
-
+20-inch-container-modified.idf: EnergyPlus initial file (base file for Python API);
+4 .epw files: weather files for four cities;
+Energy of PFAL-different cases simple.ipynb: Python file for controlling batch calculation of EnergyPlus files (only for lettuce)
+Energy of PFAL-different plant varities.ipynb: Python file for controlling batch calculation of EnergyPlus files (for different plant varities)
+V22-1-0-Energy+.idd: initial file for EnergyPlus software
+random forest.ipynb: Python file to calculate feature importance using random forest
